@@ -1,0 +1,7 @@
+requests
+telebot
+List
+json
+logging
+mysql-connector-python
+python-telegram-bot
